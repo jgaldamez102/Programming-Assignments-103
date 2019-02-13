@@ -1,0 +1,36 @@
+7
+0
+	MarkRedekopp 
+	1978
+	90018
+	1 1 1 
+1
+	JujuSmith 
+	1995
+	90271
+	2 2 
+2
+	TommyTrojan 
+	1885
+	90089
+	-1052169352 -1052169352 
+3
+	MaxNikias 
+	1945
+	91103
+	32601 32601 
+4
+	JaneDoe 
+	1988
+	90007
+	0 
+5
+	Lebron James
+	1900
+	90001
+	
+6
+	Kevin Durant
+	2000
+	90002
+	
